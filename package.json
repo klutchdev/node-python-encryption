@@ -1,0 +1,13 @@
+{
+  "name": "pythonjsencryption",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "python-encrypt": "./python-encrypt.sh",
+    "node-encrypt": "./node-encrypt.sh",
+  },
+  "dependencies": {
+    "prettier": "^2.5.1"
+  }
+}
